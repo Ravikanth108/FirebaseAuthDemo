@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseAuthDemo</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Jazz</item>
+        <item>Blues</item>
+    </array>
+
+</resources>
